@@ -1,1 +1,1 @@
-# __[rsschool-cv](https://georgio09.github.io/rsschool-cv/)__
+# __[Georgio CV](https://georgio09.github.io/rsschool-cv/cv)__
