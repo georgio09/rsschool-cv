@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(156, 156, 156);
+}
+.conteiner {
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.655);
+    margin-top: 45px;
+    margin-bottom: 25px;
+}
+.conteiner__2 {
+    width: 95%;
+    margin: auto;
+}
+.list ul {
+    list-style: none;
+    text-align: right;
+}
+.list ul li {
+    display: inline;
+    padding: 0 20px;
+}
+.list a {
+    color: rgb(215, 88, 88);;
+}
+.list a:hover {
+    color: rgb(22, 40, 4);
+}
+.header {
+    padding-top: 40px;
+}
+.header h1, h2 {
+    letter-spacing: 12px;
+    padding-bottom: 8px;
+}
+.header p {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+    border-top: 2px solid rgba(0, 0, 0, 0.5);
+    padding: 8px 0;
+    margin: 5px 0;
+}
+.about {
+    text-align: left;
+    width: 300px;
+}
+.about h3 {
+    border-bottom: 2px solid rgb(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+.about i {
+    margin-right: 10px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 5px;
+}
+.about p {
+    text-align: justify;
+}
+.contact {
+    width: 300px;
+    margin-top: 25px;
+    text-align: left;
+}
+.contact h3 {
+    border-bottom: 2px solid rgb(0, 0, 0, 0.5);
+    padding-bottom: 10px;
+}
+.contact_head {
+    margin-right: 10px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 5px;
+}
+.contact ul {
+    list-style: none;
+    margin-top: 10px;
+}
+.contact ul li {
+    padding-bottom: 5px;
+    border: 0;
+    margin-right: 5px;
+}
+.contact a {
+    color: rgb(215, 88, 88);
+}
+.contact a:hover {
+    color: rgb(7, 79, 3);
+}
+.skills ul {
+    list-style: none;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
